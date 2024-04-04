@@ -1,0 +1,172 @@
+# This file was automatically created by FeynRules 2.3.49
+# Mathematica version: 13.1.0 for Mac OS X ARM (64-bit) (June 16, 2022)
+# Date: Fri 22 Mar 2024 18:16:17
+
+
+# 
+# This is the logfile for the model DMsimp_t
+
+# Authors: Benjamin Fuks
+# Model version: 2.0
+# Checking the Quantum numbers
+   * Electric charge defined.
+# Checking the Lagrangians
+   * All Lagrangians are ok.
+#
+# Particle definitions
+#
+
+   * No particles removed. All particles correspond to GenInt setup.
+
+# Automatically assigned PDG numbers
+   * Assigned PDG number 9000001 to particle ghA
+   * Assigned PDG number 9000002 to particle ghZ
+   * Assigned PDG number 9000003 to particle ghWp
+   * Assigned PDG number 9000004 to particle ghWm
+
+
+# Compulsory PDG codes:
+   * Class SM leptons complete.
+   * Class SM neutrinos complete.
+   * Class SM quarks complete.
+   * Class SM gauge bosons complete.
+#
+# Parameter definitions
+#
+
+   * Parameter lamF1e1x1 has no value. Default value 1 assigned.
+   * Parameter lamF1e1x2 has no value. Default value 1 assigned.
+   * Parameter lamF1e1x3 has no value. Default value 1 assigned.
+   * Parameter lamF1e2x1 has no value. Default value 1 assigned.
+   * Parameter lamF1e2x2 has no value. Default value 1 assigned.
+   * Parameter lamF1e2x3 has no value. Default value 1 assigned.
+   * Parameter lamF1e3x1 has no value. Default value 1 assigned.
+   * Parameter lamF1e3x2 has no value. Default value 1 assigned.
+   * Parameter lamF1e3x3 has no value. Default value 1 assigned.
+   * Parameter lamF1L1x1 has no value. Default value 1 assigned.
+   * Parameter lamF1L1x2 has no value. Default value 1 assigned.
+   * Parameter lamF1L1x3 has no value. Default value 1 assigned.
+   * Parameter lamF1L2x1 has no value. Default value 1 assigned.
+   * Parameter lamF1L2x2 has no value. Default value 1 assigned.
+   * Parameter lamF1L2x3 has no value. Default value 1 assigned.
+   * Parameter lamF1L3x1 has no value. Default value 1 assigned.
+   * Parameter lamF1L3x2 has no value. Default value 1 assigned.
+   * Parameter lamF1L3x3 has no value. Default value 1 assigned.
+   * Parameter lamF3d1x1 has no value. Default value 1 assigned.
+   * Parameter lamF3d1x2 has no value. Default value 1 assigned.
+   * Parameter lamF3d1x3 has no value. Default value 1 assigned.
+   * Parameter lamF3d2x1 has no value. Default value 1 assigned.
+   * Parameter lamF3d2x2 has no value. Default value 1 assigned.
+   * Parameter lamF3d2x3 has no value. Default value 1 assigned.
+   * Parameter lamF3d3x1 has no value. Default value 1 assigned.
+   * Parameter lamF3d3x2 has no value. Default value 1 assigned.
+   * Parameter lamF3d3x3 has no value. Default value 1 assigned.
+   * Parameter lamF3Q1x1 has no value. Default value 1 assigned.
+   * Parameter lamF3Q1x2 has no value. Default value 1 assigned.
+   * Parameter lamF3Q1x3 has no value. Default value 1 assigned.
+   * Parameter lamF3Q2x1 has no value. Default value 1 assigned.
+   * Parameter lamF3Q2x2 has no value. Default value 1 assigned.
+   * Parameter lamF3Q2x3 has no value. Default value 1 assigned.
+   * Parameter lamF3Q3x1 has no value. Default value 1 assigned.
+   * Parameter lamF3Q3x2 has no value. Default value 1 assigned.
+   * Parameter lamF3Q3x3 has no value. Default value 1 assigned.
+   * Parameter lamF3u1x1 has no value. Default value 1 assigned.
+   * Parameter lamF3u1x2 has no value. Default value 1 assigned.
+   * Parameter lamF3u1x3 has no value. Default value 1 assigned.
+   * Parameter lamF3u2x1 has no value. Default value 1 assigned.
+   * Parameter lamF3u2x2 has no value. Default value 1 assigned.
+   * Parameter lamF3u2x3 has no value. Default value 1 assigned.
+   * Parameter lamF3u3x1 has no value. Default value 1 assigned.
+   * Parameter lamF3u3x2 has no value. Default value 1 assigned.
+   * Parameter lamF3u3x3 has no value. Default value 1 assigned.
+   * Parameter lamS1e1x1 has no value. Default value 1 assigned.
+   * Parameter lamS1e1x2 has no value. Default value 1 assigned.
+   * Parameter lamS1e1x3 has no value. Default value 1 assigned.
+   * Parameter lamS1e2x1 has no value. Default value 1 assigned.
+   * Parameter lamS1e2x2 has no value. Default value 1 assigned.
+   * Parameter lamS1e2x3 has no value. Default value 1 assigned.
+   * Parameter lamS1e3x1 has no value. Default value 1 assigned.
+   * Parameter lamS1e3x2 has no value. Default value 1 assigned.
+   * Parameter lamS1e3x3 has no value. Default value 1 assigned.
+   * Parameter lamS1L1x1 has no value. Default value 1 assigned.
+   * Parameter lamS1L1x2 has no value. Default value 1 assigned.
+   * Parameter lamS1L1x3 has no value. Default value 1 assigned.
+   * Parameter lamS1L2x1 has no value. Default value 1 assigned.
+   * Parameter lamS1L2x2 has no value. Default value 1 assigned.
+   * Parameter lamS1L2x3 has no value. Default value 1 assigned.
+   * Parameter lamS1L3x1 has no value. Default value 1 assigned.
+   * Parameter lamS1L3x2 has no value. Default value 1 assigned.
+   * Parameter lamS1L3x3 has no value. Default value 1 assigned.
+   * Parameter lamS3d1x1 has no value. Default value 1 assigned.
+   * Parameter lamS3d1x2 has no value. Default value 1 assigned.
+   * Parameter lamS3d1x3 has no value. Default value 1 assigned.
+   * Parameter lamS3d2x1 has no value. Default value 1 assigned.
+   * Parameter lamS3d2x2 has no value. Default value 1 assigned.
+   * Parameter lamS3d2x3 has no value. Default value 1 assigned.
+   * Parameter lamS3d3x1 has no value. Default value 1 assigned.
+   * Parameter lamS3d3x2 has no value. Default value 1 assigned.
+   * Parameter lamS3d3x3 has no value. Default value 1 assigned.
+   * Parameter lamS3Q1x1 has no value. Default value 1 assigned.
+   * Parameter lamS3Q1x2 has no value. Default value 1 assigned.
+   * Parameter lamS3Q1x3 has no value. Default value 1 assigned.
+   * Parameter lamS3Q2x1 has no value. Default value 1 assigned.
+   * Parameter lamS3Q2x2 has no value. Default value 1 assigned.
+   * Parameter lamS3Q2x3 has no value. Default value 1 assigned.
+   * Parameter lamS3Q3x1 has no value. Default value 1 assigned.
+   * Parameter lamS3Q3x2 has no value. Default value 1 assigned.
+   * Parameter lamS3Q3x3 has no value. Default value 1 assigned.
+   * Parameter lamS3u1x1 has no value. Default value 1 assigned.
+   * Parameter lamS3u1x2 has no value. Default value 1 assigned.
+   * Parameter lamS3u1x3 has no value. Default value 1 assigned.
+   * Parameter lamS3u2x1 has no value. Default value 1 assigned.
+   * Parameter lamS3u2x2 has no value. Default value 1 assigned.
+   * Parameter lamS3u2x3 has no value. Default value 1 assigned.
+   * Parameter lamS3u3x1 has no value. Default value 1 assigned.
+   * Parameter lamS3u3x2 has no value. Default value 1 assigned.
+   * Parameter lamS3u3x3 has no value. Default value 1 assigned.
+
+
+# Vertices
+   * Calling FeynmanRules for 1 Lagrangians.
+   * Number of classes vertices: 1210
+   * Number of flavored vertices: 1210
+   * Saved vertices in InterfaceRun[ 1 ].
+   * Checked QNumber conservation.
+   * particles.py written.
+   * parameters.py written.
+#
+# Vertex definitions
+#
+
+   * 1210 vertices written.
+   * vertices.py written.
+#
+# Lorentz structure definitions
+#
+
+   * 18 lorentz structures written.
+   * lorentz.py written.
+#
+# Coupling definitions
+#
+
+   * 443 couplings written.
+   * couplings.py written.
+#
+# Coupling order definitions
+#
+
+   * 0 couplings orders written.
+   * coupling_orders.py written.
+#
+# Decay definitions
+#
+
+   * 60 decays written.
+   * decay.py not written
+#
+# CTCoupling definitions
+#
+
+   * 0 CTcouplings written.
+   * CT_couplings.py written.
